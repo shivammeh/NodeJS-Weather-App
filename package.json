@@ -1,0 +1,27 @@
+{
+  "name": "shivamweather",
+  "version": "1.0.0",
+  "description": "Simple NodeJS based weather application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivammeh/shivamweather.git"
+  },
+  "keywords": [
+    "weather",
+    "app",
+    "nodejs"
+  ],
+  "author": "Shivam Mehrotra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivammeh/shivamweather/issues"
+  },
+  "homepage": "https://github.com/shivammeh/shivamweather#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
